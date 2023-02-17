@@ -1,4 +1,4 @@
-# converternow
+# Conversor de moedas
 Este script em python é capaz de converter o valor de qualquer moeda.
 OBS: Você precisa ter o Python e o Pip instalado.
 
