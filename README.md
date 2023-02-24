@@ -3,7 +3,7 @@ This python script is capable of converting the value of any currency.
 NOTE: You need to have Python and Pip installed.
 
 1. Install the runtime requirements
-     - pip install -r requirements.txt
+     - pip install -r requisitos.txt
 
 2. Execution
      - python app.py
