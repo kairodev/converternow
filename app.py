@@ -1,5 +1,6 @@
 # Desenvolvido por Kairo Trzeciak
 # https://github.com/kairodev
+# Teste
 from forex_python.converter import CurrencyRates
 import platform
 import os
